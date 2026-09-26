@@ -11,4 +11,4 @@ run_worker_first = ["/api/*", "/calendar.ics", "/calendar/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "workout-app"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "2448c071-eda5-4ab8-af9f-da2624a88573"
